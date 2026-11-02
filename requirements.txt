@@ -1,0 +1,7 @@
+matplotlib==3.11.2
+numpy==2.5.4
+pandas==3.1.0
+pyarrow==26.0.0
+pytrec_eval-terrier==0.5.11
+sentence-transformers==6.2.0
+torch==2.15.0
