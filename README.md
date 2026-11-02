@@ -60,4 +60,4 @@ Three English datasets, two encoders from one family, one PCA method, exact sear
 
 ## Data and license notes
 
-The BEIR datasets and the bge encoders belong to their authors. Check their terms before reuse. No license file is chosen for the code yet.
+The repo holds code, scores and counts only, with no dataset text. SciFact is released under CC BY 4.0 (claims) and ODC-By 1.0 (abstracts). NFCorpus is free for academic use, and other uses fall under the NutritionFacts.org terms. The FiQA 2018 question answering data is for non commercial use only. The bge encoders are MIT licensed. The Hugging Face BEIR copies label the datasets CC BY SA 4.0, which differs from the original terms, so check the originals before reuse. No license file is chosen for the code yet.
